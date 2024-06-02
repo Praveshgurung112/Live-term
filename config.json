@@ -1,20 +1,20 @@
 {
   "readmeUrl": "https://raw.githubusercontent.com/cveinnt/cveinnt/master/README.md",
-  "title": "LiveTerm",
-  "name": "John Doe",
-  "ascii": "liveterm",
+  "title": "portfolio",
+  "name": "Pravesh Gurung",
+  "ascii": "portfolio",
   "social": {
-    "github": "github",
-    "linkedin": "linkedin"
+    "github": "https://github.com/Praveshgurung112",
+    "linkedin": "lhttps://github.com/Praveshgurung112"
   },
-  "email": "contact@email.com",
-  "ps1_hostname": "liveterm",
+  "email": "gurungp344@gmail.com",
+  "ps1_hostname": "you are a",
   "ps1_username": "visitor",
   "repo": "https://github.com/Cveinnt/LiveTerm",
-  "resume_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Resume.pdf",
+  "resume_url": "#",
   "donate_urls": {
-    "paypal": "https://paypal.me/cveinnt",
-    "patreon": "https://patreon.com/cveinnt"
+    "paypal": "#",
+    "patreon": "#"
   },
   "colors": {
     "light": {
